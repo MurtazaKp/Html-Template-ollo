@@ -27,6 +27,11 @@ a{
     align-items: center;
 }
 
+.align-center{
+    text-align: center;
+    
+}
+
 @media screen and (min-width:768px){
     .row .center{margin: 0 auto;}
 }
@@ -107,4 +112,10 @@ a{
     50%{transform: translateX(10px);}
     100%{transform: translateX(-5px);}
     
+}
+
+@media screen and (min-width:768px) {
+    .align-center{
+        text-align: left;
+    }
 }
