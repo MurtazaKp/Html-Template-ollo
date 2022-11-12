@@ -119,3 +119,33 @@ a{
         text-align: left;
     }
 }
+
+@media screen and (min-width:1024px){
+    .row  .center{
+        margin:0 auto 0 0;
+    }
+    .nav-link{
+        margin:7px 7px;
+    }
+    .align-center{
+        text-align: left;
+    }
+    
+}
+
+@media screen and (min-width:1440px){
+    .mar{
+        margin:-23px 0 0 0;
+    }
+
+    .mar1{
+        margin: -5px 0 0 13px;
+    }
+
+    .nav-link{
+        margin:9px 10px;
+    }
+    
+         
+    
+}

@@ -186,6 +186,20 @@ a{
     }
    
 }
+@media screen and (min-width:1440px){
+    .mar{
+        margin:-23px 0 0 0;
+    }
+
+    .mar1{
+        margin: -5px 0 0 13px;
+    }
+
+    .nav-link{
+        margin:9px 10px;
+    }
+}
+
 
 @keyframes Move-Right{
     0%{transform: translateX(15px);}
