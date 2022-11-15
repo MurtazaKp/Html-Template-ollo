@@ -1,0 +1,138 @@
+<table class="MsoNormalTable" style="width: 100%; border-collapse: collapse; border: none;" border="1" cellspacing="0" cellpadding="0">
+<thead>
+<tr style="page-break-inside: avoid; height: 32.0pt;">
+<td style="width: 40.0%; border: solid black 1.0pt; background: #D9D9D9; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; text-align: center; break-after: avoid; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif; color: black;">VISION BENEFIT</span></strong></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: solid black 1.0pt; border-right: none; background: #D9D9D9; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif; color: black;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border: solid black 1.0pt; background: #D9D9D9; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif; color: black;">&nbsp;</span></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 30.0%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm 0cm 0cm 2pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Deductible</span></strong><em><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;"> (per benefit period)</span></em></p>
+</td>
+<td style="width: 35.0%; border: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 35.0%; border: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 40.0%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm 0cm 0cm 3pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Individual</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Not Applicable</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Not Applicable</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 40.0%; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm 0cm 0cm 3pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Family</span></p>
+</td>
+<td style="width: 30.0%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Not Applicable</span></p>
+</td>
+<td style="width: 30.0%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Not Applicable</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 40.0%; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm 0cm 0cm 3pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Examination/Maximum Benefit for Participants age 18 and over </span></strong><br /><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Limitation: 1 visit per benefit period</span></p>
+</td>
+<td style="width: 30.0%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">copay</span></em></strong></p>
+</td>
+<td style="width: 30.0%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">50%</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 30.0%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm 0cm 0cm 2pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Conventional Lenses/Maximum Benefit</span></strong></p>
+</td>
+<td style="width: 35.0%; border: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 35.0%; border: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 40.0%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm 0cm 0cm 3pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Single Vision</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">100%</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">50%</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 40.0%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm 0cm 0cm 3pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Bi-focal</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">100%</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">50%</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 40.0%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm 0cm 0cm 3pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Tri-focal</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">100%</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">50%</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 40.0%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm 0cm 0cm 3pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Lenticular</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">100%</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">50%</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 40.0%; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm 0cm 0cm 3pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Contacts </span><br /><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Limitation: 1 pair per benefit period</span></p>
+</td>
+<td style="width: 30.0%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">100%</span></p>
+</td>
+<td style="width: 30.0%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">50%</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 40.0%; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm 0cm 0cm 3pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">Frames/Maximum Benefit</span></strong></p>
+</td>
+<td style="width: 30.0%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">100%</span></p>
+</td>
+<td style="width: 30.0%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman', serif;">50%</span></p>
+</td>
+</tr>
+</tbody>
+</table>
