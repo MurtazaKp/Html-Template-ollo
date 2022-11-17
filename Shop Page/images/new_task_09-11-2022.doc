@@ -1,0 +1,1097 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>TinyMCE Export To Doc</title></head><body><table class="MsoTableGrid" style="width: 100%; border-collapse: collapse; border: none;" border="1" cellspacing="0" cellpadding="0">
+<thead>
+<tr style="page-break-inside: avoid; height: 32.0pt;">
+<td style="width: 33.32%; border: solid black 1.0pt; background: #D9D9D9; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm 0cm 0cm 5pt; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif; color: black;">MEDICAL BENEFITS</span></strong></p>
+</td>
+<td style="width: 33.32%; border: solid black 1.0pt; border-left: none; background: #D9D9D9; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm 0cm 0cm 5pt; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif; color: black;">PREFERRED PROVIDER</span></strong></p>
+</td>
+<td style="width: 33.32%; border: solid black 1.0pt; border-left: none; background: #D9D9D9; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm 0cm 0cm 5pt; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif; color: black;">NONPREFERRED PROVIDER</span></strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Acupuncture</span></strong></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 66.68%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" colspan="2">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Allergy Services</span></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Ambulance</span></strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;"> (Land/Air)</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Deductible then 80%</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Deductible then 60% Coinsurance</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Applied Behavior Analysis Therapy (ABA)</span></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Bereavement Counseling</span></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Cardiac Rehabilitation</span></strong></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 66.68%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" colspan="2">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Chemotherapy</span></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Chiropractic Care</span></strong></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Office visits, spinal manipulation, adjustments and x-rays</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 66.68%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" colspan="2">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Contraceptives</span></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" colspan="2">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">See Women&rsquo;s Preventive Services</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Diagnostic Services &ndash; Major</span></strong></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">(such as MRI, CT Scan, PET Scan)</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Outpatient Hospital</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Freestanding Facilities</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border: solid black 1.0pt; border-bottom: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Diagnostic Services &ndash; Minor</span></strong></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Laboratory Services</span></strong></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Outpatient Hospital</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Freestanding Facilities</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">X-Ray Services</span></strong></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Outpatient Hospital</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 25pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 25pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Freestanding Facilities</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Dialysis Therapy or Treatment</span></strong></p>
+</td>
+<td style="width: 33.32%; border: solid black 1.0pt; border-left: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: solid black 1.0pt; border-left: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Durable Medical Equipment</span></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Emergency Room Services</span></strong></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Emergency Medical Condition Care</span></em></strong></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Facility</span></em></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm 0cm 5pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Physician</span></em></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm 0cm 5pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Non-<strong><em>Emergency Medical Condition Care</em></strong></span></p>
+<p style="margin: 5pt 0cm 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Facility</span></em></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 30pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Not Covered</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 30pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Not Covered</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Physician</span></em></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Not Covered</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Not Covered</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-bottom: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; break-after: avoid; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Extended Care Facility</span></strong></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 33.32%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 66.68%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" colspan="2">
+<p style="margin: 0cm 0cm 1.4pt; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Maximum: 60 visits Extended Care &amp; Rehabilitation Inpatient combined per benefit period</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm 0cm 5pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Hearing</span></strong></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Hearing aids and related services</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 15pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 15pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 66.68%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" colspan="2">
+<p style="margin: 0cm 0cm 1.4pt; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Maximum: For months 0 to 36 1 hearing aid per ear START and For age 0 to 17 age</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Home Health Care</span></strong></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Home health care visits</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 66.68%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" colspan="2">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Home health care supplies &amp; services</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">IV therapy</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border: solid black 1.0pt; border-bottom: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Hospice Care</span></strong></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Inpatient</span></em></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Outpatient</span></em></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border: solid black 1.0pt; border-bottom: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Hospital Services</span></strong></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Inpatient Hospital</span></strong></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Facility</span></em></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Physician</span></em></strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">/Surgeon</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border: solid black 1.0pt; border-bottom: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Outpatient</span></em></strong><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;"> Surgery &ndash; Hospital</span></strong></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Facility</span></em></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Physician</span></em></strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">/Surgeon</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border: solid black 1.0pt; border-bottom: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Outpatient</span></em></strong><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;"> Surgery &ndash; Ambulatory</span></strong></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Facility</span></em></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Physician</span></em></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border: solid black 1.0pt; border-bottom: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Outpatient</span></em></strong><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;"> Surgery &ndash; Misc.</span></strong></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Facility</span></em></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Physician</span></em></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border: solid black 1.0pt; border-bottom: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Infertility Services</span></strong></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Diagnostic testing to determine infertility</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Based on services provided</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Based on services provided</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Medications and treatments</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Not Covered</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Not Covered</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Infusion Therapy</span></strong></p>
+</td>
+<td style="width: 33.32%; border: solid black 1.0pt; border-left: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: solid black 1.0pt; border-left: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; break-after: avoid; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Occupational Therapy</span></strong></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 66.68%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" colspan="2">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Office Visit &amp; Other Services</span></strong></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">(one <strong><em>copay</em></strong> per provider per date of service)</span></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+<p style="margin: 0cm; line-height: normal; break-after: avoid; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Office visit</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 5pt 0cm 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Primary care physician</span></em></strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;"> (includes outpatient visits for <strong><em>mental and nervous disorders and substance use disorder)</em></strong></span></p>
+<p style="margin: 5pt 0cm 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Specialist (includes outpatient visits for <strong><em>mental and nervous disorders</em></strong> and <strong><em>substance use disorder)</em></strong></span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 5pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+<p style="margin: 43pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 5pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+<p style="margin: 43pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm 0cm 5pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Surgery</span></p>
+<p style="margin: 5pt 0cm 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Primary care physician</span></em></strong></p>
+<p style="margin: 5pt 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Specialist</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 18pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+<p style="margin: 6pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 18pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+<p style="margin: 6pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm 0cm 5pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Lab</span></p>
+<p style="margin: 5pt 0cm 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Primary care physician</span></em></strong></p>
+<p style="margin: 5pt 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Specialist</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 15pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+<p style="margin: 8pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 15pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+<p style="margin: 8pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm 0cm 5pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">X-ray</span></p>
+<p style="margin: 5pt 0cm 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Primary care physician</span></em></strong></p>
+<p style="margin: 5pt 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Specialist</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 15pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+<p style="margin: 8pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 15pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+<p style="margin: 8pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm 0cm 5pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Other services</span></p>
+<p style="margin: 5pt 0cm 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Primary care physician</span></em></strong></p>
+<p style="margin: 5pt 0cm 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Specialist</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 15pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+<p style="margin: 8pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 15pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+<p style="margin: 8pt 0cm 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Orthotics</span></strong></p>
+</td>
+<td style="width: 33.32%; border: solid black 1.0pt; border-left: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: solid black 1.0pt; border-left: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Physical Therapy</span></strong></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 66.68%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" colspan="2">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Podiatry Services</span></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Based on service provided</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Based on service provided</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Pregnancy</span></strong></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Initial pre-natal visit and urinalysis</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">100%</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">100%</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Subsequent pre-natal visits/care and breastfeeding services and supplies (as required by the <strong><em>Affordable Care Act</em></strong>)</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">100%</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">100%</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Post-natal care and other non-routine/non-preventive pregnancy related care.</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Based on service provided</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Based on service provided</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Delivery</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border: solid black 1.0pt; border-bottom: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Private Duty Nursing</span></strong></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Inpatient</span></em></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Outpatient</span></em></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Prostheses</span></strong></p>
+</td>
+<td style="width: 33.32%; border: solid black 1.0pt; border-left: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: solid black 1.0pt; border-left: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Radiation Therapy</span></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Respiratory Therapy</span></strong></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 66.68%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" colspan="2">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Retail Clinic Visits</span></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Routine Preventive Care/Wellness Benefits Includes all evidence-based supplies or services that have in effect a rating of A or B in the current recommendations of the United States Preventive Services Task Force (USPSTF). For additional information visit: http://www.uspreventiveservicestaskforce.org</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Routine Prostate Examinations</span></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">100%</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">100%</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Speech Therapy</span></strong></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 66.68%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" colspan="2">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Telemedicine Services</span></strong></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">(see <em>Telemedicine Services (From Teladoc)</em> for Teladoc benefits)</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Primary care physician</span></em></strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;"> (includes outpatient visits for <strong><em>mental and nervous disorders and substance use disorder</em></strong>)</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Specialist (includes outpatient visits for <strong><em>mental and nervous disorders and substance use disorder</em></strong>)</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border: solid black 1.0pt; border-bottom: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Urgent Care Center</span></strong></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Visit</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">All other services</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Vision &ndash; Routine Services</span></strong></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><em><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">(Routine vision services required by the <strong>Affordable Care Act</strong> shall be covered under the Routine Preventive Care benefit)</span></em></p>
+</td>
+<td style="width: 33.32%; border: solid black 1.0pt; border-left: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Not Covered</span></p>
+</td>
+<td style="width: 33.32%; border: solid black 1.0pt; border-left: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Not Covered</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 35.0%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Weight Loss Services</span></strong></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+<td style="width: 30.0%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Surgical treatment</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Not Covered</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Not Covered</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: none; border-left: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Non-surgical treatment and programs</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: solid black 1.0pt; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Not Covered</span></p>
+</td>
+<td style="width: 33.32%; border: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Not Covered</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-bottom: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Wigs</span></strong></p>
+</td>
+<td style="width: 33.32%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border-top: solid black 1.0pt; border-left: none; border-bottom: none; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+</td>
+<td style="width: 66.68%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" colspan="2">
+<p style="margin: 0cm 0cm 1.4pt; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Maximum: 1 wigs covered by the <strong><em>Plan</em></strong></span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">Women&rsquo;s Preventive Services</span></strong></p>
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">As required by the <strong><em>Affordable Care Act</em></strong></span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">100%</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">100%</span></p>
+</td>
+</tr>
+<tr style="page-break-inside: avoid;">
+<td style="width: 33.32%; border: solid black 1.0pt; border-top: none; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">All Other <em>Covered Expenses</em></span></strong></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">80% after deductible</span></p>
+</td>
+<td style="width: 33.32%; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 1.45pt 5.75pt 1.45pt 5.75pt;" valign="top">
+<p style="margin: 0cm; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: 'Times New Roman', serif;">60% after deductible</span></p>
+</td>
+</tr>
+</tbody>
+</table></body></html>
